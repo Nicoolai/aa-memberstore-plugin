@@ -1,6 +1,6 @@
 [run]
 branch = True
-source = example
+source = memberstore
 
 [report]
 exclude_lines =
