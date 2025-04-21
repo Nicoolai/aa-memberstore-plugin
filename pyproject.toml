@@ -5,16 +5,16 @@ requires = [
 ]
 
 [project]
-name = "aa-example-plugin"
-description = "Example Plugin for Alliance Auth (GitHub Version)"
+name = "aa-memberstore-plugin"
+description = "Memberstore plugin for Alliance Auth"
 readme = "README.md"
 keywords = [
     "allianceauth",
-    "example",
+    "memberstore",
 ]
 license = { file = "LICENSE" }
 authors = [
-    { name = "Peter Pfeufer", email = "develop@ppfeufer.de" },
+    { name = "Nicolai Søndergaard", email = "Nicolai.Sondergaard@gmail.com" },
 ]
 requires-python = ">=3.10"
 classifiers = [
