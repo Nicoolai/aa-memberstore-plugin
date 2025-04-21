@@ -1,7 +1,7 @@
-appname = example
-package = example
+appname = memberstore
+package = memberstore
 
-# Default goal
+# Default goal 
 .DEFAULT_GOAL := help
 
 # Help
